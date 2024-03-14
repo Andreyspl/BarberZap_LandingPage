@@ -11163,4 +11163,5 @@ footer a:hover, footer a:active, footer a:focus {
 
 .logoNavBar {
   width: 50px;
+  max-width: 50px;
 }
